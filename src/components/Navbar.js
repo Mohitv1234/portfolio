@@ -43,7 +43,7 @@ function NavBar() {
               margin: 'auto',
               fontWeight: '700',
               letterSpacing: '1px',
-              fontSize: '28px',
+              fontSize: '18px',
             }}
           >
             Mohit Vishwakarma
